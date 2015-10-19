@@ -1,0 +1,71 @@
+White :27816
+Male :21790
+G0% :32400
+LossLess3000 :32550
+full :29633
+United-States :29170
+<=50K :24720
+Private :22696
+belowBachelor :24494
+ <=50K G0% :24718
+ <=50K LossLess3000 :24712
+ <=50K United-States :21999
+ <=50K White :20699
+ <=50K belowBachelor :20562
+ <=50K full :21987
+ G0% LossLess3000 :32389
+ G0% Male :21651
+ G0% Private :22613
+ G0% United-States :29027
+ G0% White :27674
+ G0% belowBachelor :24451
+ G0% full :29475
+ LossLess3000 Male :21788
+ LossLess3000 Private :22689
+ LossLess3000 United-States :29160
+ LossLess3000 White :27807
+ LossLess3000 belowBachelor :24485
+ LossLess3000 full :29624
+ Male full :20412
+ Private United-States :20135
+ Private full :20883
+ United-States White :25621
+ United-States belowBachelor :22047
+ United-States full :26490
+ White belowBachelor :20714
+ White full :25295
+ belowBachelor full :22033
+ <=50K G0% LossLess3000 :24710
+ <=50K G0% United-States :21998
+ <=50K G0% White :20697
+ <=50K G0% belowBachelor :20561
+ <=50K G0% full :21985
+ <=50K LossLess3000 United-States :21991
+ <=50K LossLess3000 White :20692
+ <=50K LossLess3000 belowBachelor :20554
+ <=50K LossLess3000 full :21980
+ G0% LossLess3000 Male :21649
+ G0% LossLess3000 Private :22606
+ G0% LossLess3000 United-States :29017
+ G0% LossLess3000 White :27665
+ G0% LossLess3000 belowBachelor :24442
+ G0% LossLess3000 full :29466
+ G0% Male full :20275
+ G0% Private United-States :20061
+ G0% Private full :20801
+ G0% United-States White :25486
+ G0% United-States belowBachelor :22010
+ G0% United-States full :26350
+ G0% White belowBachelor :20678
+ G0% White full :25156
+ G0% belowBachelor full :21991
+ LossLess3000 Male full :20410
+ LossLess3000 Private United-States :20129
+ LossLess3000 Private full :20877
+ LossLess3000 United-States White :25613
+ LossLess3000 United-States belowBachelor :22039
+ LossLess3000 United-States full :26482
+ LossLess3000 White belowBachelor :20706
+ LossLess3000 White full :25288
+ LossLess3000 belowBachelor full :22025
+ United-States White full :23259
